@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
