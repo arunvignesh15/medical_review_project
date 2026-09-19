@@ -112,4 +112,4 @@ Prediction
 FastAPI UI
 ```
 
-We deployed in AWS 
+We deployed in AWS  and Azure
