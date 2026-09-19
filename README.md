@@ -111,3 +111,5 @@ Prediction
 
 FastAPI UI
 ```
+
+We deployed in AWS 
